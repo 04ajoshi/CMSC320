@@ -11,3 +11,7 @@ Answer: Data Science can be applied to medicine. For example, doctors could use 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: merging preserves the history of the branches, while rebasing rewrites the history of the branches. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning SQL and Pandas. I think these are important languages/tools in a computer scientists toolkit. Apart from this class, I'm looking forward to making new friends in my classes. 
